@@ -1,2 +1,5 @@
 ### ENVIRONMENT VARIABLES ###
 .env
+
+### REQUEST TESTING EXAMPLES ###
+cmd/examples
